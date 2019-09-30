@@ -6,7 +6,7 @@
 package Usuario;
 
 /**
- *
+ *NIGGER Comentario
  * @author DIEGO
  */
 public class usuario {
