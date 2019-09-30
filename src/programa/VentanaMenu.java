@@ -28,7 +28,7 @@ public class VentanaMenu extends JFrame implements ActionListener{
         
         respuesta=new JTextArea("");
         
-        
+        //NIGGER
         scroll=new JScrollPane(respuesta);
         scroll.setBounds(20, 120, 430, 300);
         this.add(scroll);
